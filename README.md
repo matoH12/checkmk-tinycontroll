@@ -12,6 +12,8 @@ OID:
 .1.3.6.1.2.1.1.2.0 = OID: .1.3.6.1.4.1.17095
 
 
+Tinycontroll OUTPUT:
+
 ![datei](tinycontroll.JPG)
 
  
